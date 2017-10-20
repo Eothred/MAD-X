@@ -2,6 +2,15 @@
 
 from __future__ import print_function
 
+'''
+Usage: (python2 code for now..)
+
+  mkdir build
+  cd build
+  cmake ../
+  cd ../
+  python2 cmake/print_missing_tests.py
+'''
 
 import sys,os,subprocess
 
