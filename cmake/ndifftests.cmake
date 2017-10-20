@@ -21,6 +21,7 @@ ndiff_test(test-ptc-trackline 0)
 ndiff_test(test-ptc-trackline-2 0)
 ndiff_test(test-ptc-trackline-3 1)
 ndiff_test(test-ptc-track 0)
+ndiff_test(test-ptc-track-2 0)
 ndiff_test(test-ptc-track-3 1)
 
 ndiff_test(test-rfmultipole 0)
@@ -168,3 +169,6 @@ ndiff_test(test-setknob 0)
 ndiff_test(test-fillknob 0)
 
 ndiff_test(test-interpolate 0)
+
+ndiff_test(test-coupling 0)
+ndiff_test(test-coupling-2 0)
